@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+/*mainBlock*/
+.mainBlock {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 5px;
+    width: 100%;
+    height: 100%;
+}
+
+/* block1 */
+.block1 {
+    position: fixed;
+    background-color: rgb(187, 187, 187);
+    border-radius: 5px;
+    padding: 0px;
+    padding-top: 5px;
+    margin: 0% 20% 0% 20%;
+    width: 60%;
+    height: 98%;
+    text-align: center;
+}
+.block1 video {
+    margin-top: 20px;
+}
+.block1 input[type=text] {
+    width: 50%;
+    display: inline-block;
+}
