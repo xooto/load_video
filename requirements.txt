@@ -2,3 +2,4 @@ django
 ffmpeg
 pytube3
 opencv-python
+django-heroku
