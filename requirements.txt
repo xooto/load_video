@@ -1,5 +1,5 @@
 django
-ffmpeg
+ffmpeg-python
 pytube3
 opencv-python
 django-heroku
