@@ -1,4 +1,4 @@
-django
+Django==3.0.5
 ffmpeg-python
 pytube3
 opencv-python
